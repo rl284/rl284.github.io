@@ -9,6 +9,7 @@ Shortcuts/shorthands:
 |.navbar__toggle#mobile-menu|create a class and id: `<div class="navbar__toggle" id="mobile-menu"></div>`|
 |span.bar|`<span class="bar"></span>`|
 |shift + alt + down arrow|copies current line to new line under|
+|highlight section --> shift + alt + a|highlight selected section|
 
 Other Notes:
 - Live Server extension
