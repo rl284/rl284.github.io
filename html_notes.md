@@ -14,3 +14,7 @@ Shortcuts/shorthands:
 Other Notes:
 - Live Server extension
 - Prettier extension
+
+
+Sources
+- https://www.youtube.com/watch?v=FazgJVnrVuI
